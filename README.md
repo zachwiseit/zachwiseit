@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zach, an <a href="https://www.linkedin.com/in/zacharycwise/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Zach, an <a href="https://www.linkedin.com/in/zacharycwise/">IT Professional</a></h1>
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
